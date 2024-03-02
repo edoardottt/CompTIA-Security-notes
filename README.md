@@ -6,4 +6,5 @@
 License 📝
 -------
 
-This repository is under [MIT License](https://github.com/edoardottt/CompTIA-Security-notes/blob/main/LICENSE).
+This repository is under [MIT License](https://github.com/edoardottt/CompTIA-Security-notes/blob/main/LICENSE).  
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
