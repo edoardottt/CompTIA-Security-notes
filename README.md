@@ -2,6 +2,9 @@
 
 #### Thanks [@Average_Down](https://reddit.com/user/Average_Down) for original notes
 
+<p align="center">
+<img width="60%" src="https://www.edoardoottavianelli.it/post/post11/sec+.png">
+</p>
 
 License 📝
 -------
