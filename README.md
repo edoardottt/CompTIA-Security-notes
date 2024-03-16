@@ -6,6 +6,9 @@
 <img width="60%" src="https://www.edoardoottavianelli.it/post/post11/sec+.png">
 </p>
 
+- Info about Security+ certification [here](https://www.comptia.org/certifications/security).  
+- Read also my [blog post](https://www.edoardoottavianelli.it/post/post11/post11.html) about Security+ certification.
+
 License 📝
 -------
 
