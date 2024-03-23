@@ -1015,3 +1015,9 @@ Thanks [@Average_Down](https://reddit.com/user/Average_Down) for original notes.
 - XOR Exclusive OR
 - XSRF Cross-site Request Forgery
 - XSS Cross-site Scripting
+
+----------
+
+If you find an error or want to improve this page, just [open an issue](https://github.com/edoardottt/comptia-security-notes/issues).
+
+**Don't** text/mail me looking for exam solutions.
