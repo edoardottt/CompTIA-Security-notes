@@ -1,5 +1,3 @@
-﻿# CompTIA Security+ SY0-601 Notes
-
 Notes by [@edoardottt](https://www.edoardoottavianelli.it/), exam passed with 788 points.  
 Thanks [@Average_Down](https://reddit.com/user/Average_Down) for original notes.  
 
