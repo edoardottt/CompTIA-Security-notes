@@ -2,11 +2,11 @@
   <img width="60%" src="./sec+.png">
 </p>
 
-Notes by [@edoardottt](https://www.edoardoottavianelli.it/), exam passed with 788 points.  
+Notes by [@edoardottt](https://edoardottt.com/), exam passed with 788 points.  
 Thanks [@Average_Down](https://reddit.com/user/Average_Down) for original notes.  
 
 - Info about Security+ certification [here](https://www.comptia.org/certifications/security).  
-- Read also my [blog post](https://www.edoardoottavianelli.it/post/post11/post11.html) about Security+ certification.
+- Read also my [blog post](https://edoardottt.com/comptia-sec) about Security+ certification.
 
 ## 1.1 - Compare and contrast different types of social engineering techniques
 
